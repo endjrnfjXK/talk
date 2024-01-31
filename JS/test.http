@@ -1,0 +1,8 @@
+
+POST  https://study.duyiedu.com/api/chat HTTP/1.1
+Content-Type: application/json
+authorization:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyN2I5OGVmZDIyOGVlMGFiZjQ1ODE2NSIsImlhdCI6MTcwNjQzNjM4NSwiZXhwIjoxNzA3MDQxMTg1fQ.gMlrkoH7X4nP0tMBtttqr6ia7-monRivGoBzt6-Jufw
+
+{
+   content:'你是男是女'
+}
